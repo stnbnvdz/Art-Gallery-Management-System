@@ -1,0 +1,16 @@
+2019-04-04T02:30:04+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 20480 bytes) in C:\xampp\htdocs\artbytess\wp-includes\functions.php on line 446
+
+2019-04-04T02:30:04+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in C:\xampp\htdocs\artbytess\wp-includes\functions.php on line 446
+
+s-scripts-styles.php on line 379
+
+2019-04-04T02:30:04+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 32768 bytes) in C:\xampp\htdocs\artbytess\wp-content\themes\electro\inc\classes\class-tgm-plugin-activation.php on line 817
+
+2019-04-04T02:30:04+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 20480 bytes) in C:\xampp\htdocs\artbytess\wp-includes\functions.php on line 446
+
+2019-04-04T02:30:04+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in C:\xampp\htdocs\artbytess\wp-includes\functions.php on line 446
+
+2019-04-04T04:02:14+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in C:\xampp\htdocs\artbytess\wp-includes\functions.php on line 446
+
+2019-04-04T06:33:52+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in C:\xampp\htdocs\artbytess\wp-content\plugins\elementor\includes\settings\system-info\main.php on line 315
+

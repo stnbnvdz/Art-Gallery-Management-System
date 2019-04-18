@@ -1,0 +1,26 @@
+2019-04-02T20:55:33+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-content\plugins\weforms\includes\integrations\slack\class-integration-slack.php on line 8
+
+2019-04-02T20:55:48+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-includes\functions.wp-scripts.php on line 37
+
+2019-04-02T20:55:51+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-includes\formatting.php on line 1137
+
+2019-04-02T20:56:17+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-content\plugins\elementor-pro\modules\theme-builder\conditions\date.php on line 4
+
+2019-04-02T21:22:43+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-includes\wp-db.php on line 2007
+
+2019-04-02T21:22:43+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-content\themes\electro\inc\widgets\class-electro-posts-carousel-widget.php on line 5
+
+2019-04-02T21:23:15+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-includes\class-wp-hook.php on line 285
+
+2019-04-02T21:24:02+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-content\plugins\weforms\includes\importer\class-importer-abstract.php on line 6
+
+2019-04-02T21:24:58+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-includes\wp-db.php on line 2007
+
+2019-04-02T22:25:55+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in C:\xampp\htdocs\artbytess\wp-admin\includes\ajax-actions.php on line 3527
+
+2019-04-02T23:30:39+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\artbytess\wp-content\plugins\yith-woocommerce-share-for-discounts-premium/class.yith-wc-share-for-discounts.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\artbytess\wp-content\plugins\yith-woocommerce-share-for-discounts-premium\init.php on line 128
+
+2019-04-02T23:32:20+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\artbytess\wp-content\plugins\yith-woocommerce-share-for-discounts-premium\class.plugin-modules.php on line 66
+
+2019-04-02T23:33:10+00:00 CRITICAL require_once(): Failed opening required 'includes/twitteroauth/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\artbytess\wp-content\plugins\yith-woocommerce-share-for-discounts-premium\class.yith-wc-share-for-discounts.php on line 150
+
