@@ -23,7 +23,7 @@ Password: admin
 ```
 
 ### Landing Page
-![](screenshot/landingpage.png)
+![](screenshot/landingpage1.png)
 
 ## License
 
