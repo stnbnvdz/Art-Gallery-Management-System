@@ -1,7 +1,7 @@
 
 # GoGolfing E-commerce Website
 
-Project in Basic E-commerce under Engr. Presbitero using Wordpress woocommerce
+Project in Basic E-commerce under Engr. Presbitero
 
 ## Getting Started
 
