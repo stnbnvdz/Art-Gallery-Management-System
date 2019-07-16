@@ -23,16 +23,11 @@ Password: admin
 ```
 
 ### Landing Page
-![](screenshot/landingpage1.png)
+![](screenshot/landingp@ge.png)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details
 
-## Meet the team
+- [stnbnvdz](https://github.com/stnbnvdz)
 
-* **John Austin Benavidez** - [stnbnvdz](https://github.com/stnbnvdz)
-* **Dominic Alfonso**
-* **Kent Bron**
-* **Ivan Morados**
-* **Justin Purganan**
