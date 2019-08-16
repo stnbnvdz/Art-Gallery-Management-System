@@ -1,7 +1,7 @@
 
-# GoGolfing E-commerce Website
+# Artbytes
 
-Project in Basic E-commerce under Engr. Presbitero
+Project under Engr. April
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Installation
 ```
-> The database is located in database/gogolfing.sql
+> The database is located in db/artbytess.sql
 ```
 
 ```
