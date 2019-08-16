@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 
 ```
-> Go to localhost/gogolfing/wp-admin.php then login using 
+> Go to localhost/artbytess/wp-admin.php then login using 
 Username: admin
 Password: admin
 ```
